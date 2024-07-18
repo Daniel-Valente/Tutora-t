@@ -1,0 +1,12 @@
+export const dialogflowConfig = {
+    type: "service_account",
+    project_id: "tutora-bot-gboo",
+    private_key_id: "e378182d4abc9ea0bcbe82f773de4c248d936f1e",
+    private_key: "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCMiM3H5ugC+Xqt\nr+GJSfFYYokvpmFj6ArT5TUYN3d32hRu9IOGSjr6JJXso4laWDwVmyYgNssfVwfq\nPIxMAHl92Pj8rgwNa8MQj3TOyvIpEShRxlORarS+dW7peucbdFM6GQM42t9Occ0r\nBL8GJqAK+LPymF29PI8iGCGNnS2hqK9dsxM0aPJHJmn22g9vW571pMOXtQE872+A\n9GFRuDunAaD2N1jk0RpIwvReyi8DD6vhpXP4ejVnwU8aWMh5p4mmI1+Ffumz2/kW\nq0LqdszmoCr3P6zTr2578Wh16iLe3QbETbSws2f9bgvoDKLeNnGgzCgZaEYDOfhg\nYrClN3WPAgMBAAECggEAAbChdngJ4TZ6Nn18QyGvAJn98VZyxF5/E6ML4bTFDIPR\nJbAHpt7cphmeurl3hnnm9KsoqOmC+GdpBaf6iro7Ii7KRVICFhhuJseHpyopaFU3\nyWf1PrUffRmkOE2NWupDfloPplut1/kmKpBd8oDjZ5sr1GaA3HloDtTNQbE0SJKr\nD/QJJjSehhtItaDAACl8uOdgN5riKmkmmC8H8imioANpQbOP47x+BxnM6kj1TpB8\nzz10nrJ+XY9Wso65NkLyXMd3+WEGeH3yfkFo81kX3TiBoj44wFpTCEj3vdCJ80aU\npOMgvSjhBSIsXR45pZnoURSfPLN/5Z7bg2BfXkak2QKBgQDD5H09Ul07aBlH+Ub0\niewBm7BnUiiz/6HPsY5di8FnP0nmR8YCwfhAEGnNBLq8P5PP8WkSykqkZ3hbmBVs\nrC9Pir4O/hW0BLn/hmiPIjDmnG6xWxzBm9z+P0NAbn+6IZscc3PQ6iA7PQfv1qbp\nG70E1F2NnXBtIcuCOIzMUTsE6QKBgQC3p+Om9r9vLCnwrVq0eQsmNLq6eqhowS37\n44egDU2pSL/cGj+TPM6Zc20Pi92fKShzZgf/Spqs86XNT1KaZxBF49bkFaew88ON\nEZuKtGleBLBWL+q5hu0tSUBSdS7ICkwsbfcVaf30IRp9W6ADCH2LZs/ihkDeuJUb\nB3ylZHN7twKBgHrHFwf8O5skX9QQlTxnxZgscKARiplmu5BlhQl0sr93l2XRznWk\nBWiB4Q4yzKd4YbiPYn/4clgg0fr2k1cNhImiOAVFk2zFGZ7iK16q22Nu4KIgrSFc\nA2MHW6tiloOe1I08f3aNh64ZToQwUWUBkbMZN5mu9+wuplL0Bqt4rjkhAoGAE8JZ\naN5FTGW5AW71QlN/kpW7vVJzCgo2s1IQhnTH9T2hfsHIM0QoijPz+Oc4aeZYtsm0\ndJAHQjJYlVVCcuBBzPMtbI6z4wLm+Cd7z5mHeJkSi8NOArX0kJm/9N8ssFMDTQhr\nu/8SVpC1M+WGuqzQLQ5bsWh2VEARsr3EeFrtXdMCgYEAhKOMNnPf1cQBSm1FaHnw\nFr+l9RyiyY1BouCq0YjWc5KH/v9a1NNAxYCbK+fPd4QhqU7wErCM5Hk1IJA4J7dm\nqIkQWWb/I6sabFKloUXcIiPOhZsJSgWjPTmStsfT6h7OSJOz5NvSy7NOvV0//FAD\nbkKN/3NF1pYAcFbbmbg4kB4=\n-----END PRIVATE KEY-----\n",
+    client_email: "tutora-t-bot@tutora-bot-gboo.iam.gserviceaccount.com",
+    client_id: "109016420983652043790",
+    auth_uri: "https://accounts.google.com/o/oauth2/auth",
+    token_uri: "https://oauth2.googleapis.com/token",
+    auth_provider_x509_cert_url: "https://www.googleapis.com/oauth2/v1/certs",
+    client_x509_cert_url: "https://www.googleapis.com/robot/v1/metadata/x509/tutora-t-bot%40tutora-bot-gboo.iam.gserviceaccount.com"
+  }
